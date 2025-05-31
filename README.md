@@ -6,7 +6,7 @@ I'm currently learning React and exploring full-stack development.
 
 - 📫 How to reach me **tuana.albayrak935@gmail.com**
 
-<p align="right">
+<p align="right" width="490" height="165">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
