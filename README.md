@@ -1,18 +1,21 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-There is a land where I share toys and have a break.
-
-I'm currently learning building tools and AST.
+I'm currently learning React and exploring full-stack development.  
+Designing with Figma, coding with care.  
+_"Festina lente" — make haste slowly._
 
 <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeeng&layout=compact&hide=css,html)
-
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=zheeeng&count_private=true&show_icons=true&theme=onedark)
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=for-tuana&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=for-tuana&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=for-tuana&theme=darcula&hide_border=true&background=FFFFFF00" />
+</p>
 
 </details>
+
 
 <h1 align="center">Hi 👋, I'm Tuana</h1>
 <h3 align="center">A passionate full stack developer from Turkey.</h3>
