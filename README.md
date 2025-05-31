@@ -2,6 +2,10 @@
 
 I'm currently learning React and exploring full-stack development.  
 
+- 🔭 I’m currently working on **My Adventure Book**
+
+- 📫 How to reach me **tuana.albayrak935@gmail.com**
+
 <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
@@ -13,12 +17,6 @@ I'm currently learning React and exploring full-stack development.
 </p>
 
 </details>
-
-- 🔭 I’m currently working on **My Adventure Book**
-
-- 🌱 I’m currently learning **HTML(done) - CSS(done) JavaScript(done) - React(currently) - NodeJS**
-
-- 📫 How to reach me **tuana.albayrak935@gmail.com**
 
 <h3 align="left">Languages and Tools</h3>
 <div align="left">
@@ -85,3 +83,81 @@ I'm currently learning React and exploring full-stack development.
     </tr>
   </table>
 </div>
+
+<details>
+  <summary>Quelques statistiques ...</summary><br/>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C752%20hrs%2054%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 40 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3464 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+🌆 Daytime                19853 commits       ████████████░░░░░░░░░░░░░   46.77 % 
+🌃 Evening                15208 commits       █████████░░░░░░░░░░░░░░░░   35.83 % 
+🌙 Night                  3923 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   6548 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Tuesday                  7143 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Wednesday                9130 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Thursday                 7241 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Friday                   5871 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Saturday                 3034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Sunday                   3481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+HTML                     1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.39 % 
+TypeScript               52 mins             █████████░░░░░░░░░░░░░░░░   34.77 % 
+Vue.js                   23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      2 hrs 23 mins       ████████████████████████░   95.68 % 
+WSL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+PHP                      10 repos            ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+```
+
+
+
+
+ Last Updated on 31/05/2025 00:07:34 UTC
+<!--END_SECTION:waka-->
+</details>
