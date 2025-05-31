@@ -1,8 +1,6 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 I'm currently learning React and exploring full-stack development.  
-Designing with Figma, coding with care.  
-_"Festina lente" — make haste slowly._
 
 <details>
 <summary>⚡️ More about my coding life</summary>
@@ -16,23 +14,11 @@ _"Festina lente" — make haste slowly._
 
 </details>
 
-
-<h1 align="center">Hi 👋, I'm Tuana</h1>
-<h3 align="center">A passionate full stack developer from Turkey.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=for-tuana&label=Profile%20views&color=b40e0e&style=flat-square" alt="for-tuana" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=for-tuana" alt="for-tuana" /></a> </p>
-
 - 🔭 I’m currently working on **My Adventure Book**
 
 - 🌱 I’m currently learning **HTML(done) - CSS(done) JavaScript(done) - React(currently) - NodeJS**
 
 - 📫 How to reach me **tuana.albayrak935@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools</h3>
 <div align="left">
@@ -99,11 +85,3 @@ _"Festina lente" — make haste slowly._
     </tr>
   </table>
 </div>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=for-tuana&show_icons=true&theme=radical&title_color=b40e0e&bg_color=fcf6e3&locale=en&layout=compact" alt="for-tuana" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=for-tuana&show_icons=true&theme=radical&title_color=b40e0e&text_color=000000&bg_color=fcf6e3&locale=en" alt="for-tuana" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=for-tuana&" alt="for-tuana" /></p>
-
