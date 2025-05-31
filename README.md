@@ -4,9 +4,9 @@ Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-
 
 I'm currently learning React and exploring full-stack development.  
 
-- 🔭 I’m currently working on **My Adventure Book**
+I’m currently working on **My Adventure Book**
 
-- 📫 How to reach me **tuana.albayrak935@gmail.com**
+How to reach me **tuana.albayrak935@gmail.com**
    </div>
    
 <p >
