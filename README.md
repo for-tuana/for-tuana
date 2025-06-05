@@ -39,11 +39,11 @@ How to reach me **tuana.albayrak935@gmail.com**
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 57.9 kB Used in GitHub's Storage 
  > 
 > 🏆 114 Contributions in the Year 2025
  > 
@@ -51,7 +51,7 @@ How to reach me **tuana.albayrak935@gmail.com**
  > 
 > 📜 23 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -112,7 +112,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/for-tuana/for-tuana/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2025 11:11:22 UTC
+ Last Updated on 05/06/2025 11:14:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
