@@ -42,7 +42,7 @@ How to reach me **tuana.albayrak935@gmail.com**
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,22 +83,16 @@ Sunday                   161 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-JavaScript               2 hrs 28 mins       ██████████████████░░░░░░░   72.58 % 
-JSON                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-My-adventure-book-mainpag1 hr 32 mins        ███████████░░░░░░░░░░░░░░   45.36 % 
-my-adventure-book        1 hr 27 mins        ███████████░░░░░░░░░░░░░░   42.87 % 
-my-adventure-book-main   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +112,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/for-tuana/for-tuana/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2025 01:53:21 UTC
+ Last Updated on 15/06/2025 02:07:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
