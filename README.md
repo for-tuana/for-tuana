@@ -42,7 +42,7 @@ How to reach me **tuana.albayrak935@gmail.com**
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -112,7 +112,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/for-tuana/for-tuana/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2025 01:58:05 UTC
+ Last Updated on 20/06/2025 01:57:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
