@@ -48,8 +48,6 @@ How to reach me **tuana.albayrak935@gmail.com**
 
 > 📦 99.9 kB Used in GitHub's Storage 
  > 
-> 🏆 105 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -112,7 +110,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/for-tuana/for-tuana/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 01:57:39 UTC
+ Last Updated on 27/06/2025 01:58:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
