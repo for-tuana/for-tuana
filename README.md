@@ -40,7 +40,7 @@ How to reach me **tuana.albayrak935@gmail.com**
   <summary>📊 Weekly Coding Stats</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -83,16 +83,16 @@ Sunday                   161 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+my-adventure-book        6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +112,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/for-tuana/for-tuana/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2025 02:08:41 UTC
+ Last Updated on 30/06/2025 02:03:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
