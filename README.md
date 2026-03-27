@@ -1,122 +1,22 @@
-### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+<h3 align="center">A stubborn frontend and game developer</h3>
 
-I'm currently learning Unity,Photoshop,Blender,C# and exploring game development.  
+- 🔭 I’m currently working on **Romance Palace Mobile Game**
 
-I’m currently working on **Romance Palace Mobile Game**
+- 🌱 I’m currently learning **Unity,Photoshop,Blender,C# and exploring game development.**
 
-How to reach me **tuana.albayrak935@gmail.com**
-   
-<p >
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-e34c26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-f24e1e.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+- 📫 How to reach me **tuana.albayrak935@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ tuana-albayrak-23b975253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ tuana-albayrak-23b975253" height="30" width="40" /></a>
+<a href="https://instagram.com/thecolorpicker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecolorpicker" height="30" width="40" /></a>
 </p>
 
-<details>
-<summary>⚡️ More about my coding life</summary>
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-chi-nine-98.vercel.app/api?username=for-tuana&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=for-tuana&show_icons=true&locale=en&layout=compact" alt="for-tuana" /></p>
 
-  <img height="180em" src="https://github-readme-stats-chi-nine-98.vercel.app/api/top-langs/?username=for-tuana&layout=compact&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=for-tuana&show_icons=true&locale=en" alt="for-tuana" /></p>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=for-tuana&theme=darcula&hide_border=true&background=00000000" />
-</p>
-
-
-</details>
-
-<details>
-  <summary>📊 Weekly Coding Stats</summary>
-
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2050%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 99.9 kB Used in GitHub's Storage 
- > 
-> 🏆 105 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-🌆 Daytime                462 commits         ███████████░░░░░░░░░░░░░░   44.00 % 
-🌃 Evening                393 commits         █████████░░░░░░░░░░░░░░░░   37.43 % 
-🌙 Night                  190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Tuesday                  205 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Thursday                 35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Friday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Saturday                 332 commits         ████████░░░░░░░░░░░░░░░░░   31.62 % 
-Sunday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Istanbul
-
-💬 Programming Languages: 
-JavaScript               4 hrs 36 mins       ████████████████████████░   97.25 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-my-adventure-book        4 hrs 10 mins       ██████████████████████░░░   88.23 % 
-my-three-project         33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-
-💻 Operating System: 
-Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               13 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-CSS                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/for-tuana/for-tuana/main/assets/bar_graph.png)
-
-
- Last Updated on 04/07/2025 01:57:56 UTC
-<!--END_SECTION:waka-->
-
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=for-tuana&" alt="for-tuana" /></p>
