@@ -16,7 +16,7 @@ I'm a Software Engineering student passionate about bringing interactive ideas t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/tuana-albayrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ tuana-albayrak-23b975253" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tuana-albayrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ tuana-albayrak-23b975253" height="30" width="40" /></a>
 <a href="https://instagram.com/thecolorpicker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecolorpicker" height="30" width="40" /></a>
 </p>
 
