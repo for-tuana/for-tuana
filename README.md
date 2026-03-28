@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=for-tuana&layout=compact&theme=tokyonight&custom_title=Development%20Hours&bg_color=1A1B27&title_color=F7768E&text_color=9ECE6A" />
+
 <h3 align="center">A stubborn frontend and game developer</h3>
 
 - 🔭 I’m currently working on **Romance Palace Mobile Game**
