@@ -1,8 +1,16 @@
 <h3 align="center">A stubborn frontend and game developer</h3>
 
-- 🔭 I’m currently working on **Romance Palace Mobile Game**
+I'm a Software Engineering student passionate about bringing interactive ideas to life through code and art. My current focus is on developing engaging mobile games, optimizing 3D assets, and building clean front-end web experiences.
 
-- 🌱 I’m currently learning **Unity,Photoshop,Blender,C# and exploring game development.**
+### 🛠️ Technologies & Tools
+* **Game Development:** Unity, C#
+* **3D & Design:** Blender, Adobe Photoshop
+* **Web Development:** HTML, CSS, JavaScript, React
+
+### 🌱 Currently Working On
+* Developing and polishing 2D mobile games in Unity.
+* Designing and optimizing 3D models for web integration.
+* Preparing for game development internships!
 
 - 📫 How to reach me **tuana.albayrak935@gmail.com**
 
