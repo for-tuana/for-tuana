@@ -24,11 +24,57 @@ I'm a Software Engineering student passionate about bringing interactive ideas t
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2047%20mins-blue?style=flat)
 
-```txt
-C#              6 hrs 45 mins         ████████████████████████▒   97.40 %
-Unity3D Asset   10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Other           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 15 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+🌆 Daytime                406 commits         ███████████░░░░░░░░░░░░░░   44.27 % 
+🌃 Evening                347 commits         █████████░░░░░░░░░░░░░░░░   37.84 % 
+🌙 Night                  159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Tuesday                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Wednesday                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Thursday                 25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Friday                   76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Saturday                 345 commits         █████████░░░░░░░░░░░░░░░░   37.62 % 
+Sunday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       6 hrs 45 mins       ████████████████████████░   97.40 % 
+Unity3D Asset            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 56 mins       █████████████████████████   100.00 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/for-tuana/for-tuana/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/03/2026 01:23:54 UTC
 <!--END_SECTION:waka-->
