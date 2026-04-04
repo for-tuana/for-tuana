@@ -63,10 +63,10 @@ Sunday                   161 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -74,5 +74,5 @@ VS Code                  1 min               ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/for-tuana/for-tuana/main/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2026 01:20:48 UTC
+ Last Updated on 04/04/2026 01:15:26 UTC
 <!--END_SECTION:waka-->
